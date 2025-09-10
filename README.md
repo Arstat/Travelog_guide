@@ -1,7 +1,7 @@
 
-  # TravelTrack Kerala App UI
+  # Travelog India App UI
 
-  This is a code bundle for TravelTrack Kerala App UI. The original project is available at https://www.figma.com/design/hIbeuZcHMohr03h05BVV2q/TravelTrack-Kerala-App-UI.
+  
 
   ## Running the code
 
